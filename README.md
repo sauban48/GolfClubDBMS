@@ -10,4 +10,14 @@ created with PHP and SQL.
 You can access the website at this link:
 https://luxurygc.000webhostapp.com/register.php
 
+To access a member account, use:
+username: user
+password: yes
 
+To access an instructor account, use:
+username: jb123
+password: yes
+
+To access an admin account, use:
+username: admin
+password: yes
