@@ -14,7 +14,7 @@ To access a member account, use;
 username: user
   password: yes
 
-To access an instructor account, use; 
+To access an instructor account, use;   
 username: jb123
   password: yes
 
