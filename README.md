@@ -8,7 +8,7 @@ created with PHP and SQL.
 
 
 You can access the website at this link:
-https://luxurygc.000webhostapp.com/register.php
+https://luxurygc.000webhostapp.com/
 
 To access a member account, use:  
 username: user
