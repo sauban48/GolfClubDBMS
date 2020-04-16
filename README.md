@@ -6,7 +6,7 @@ is then retrieved when a user attempts to login. The frontend of the project
 was created with HTML/CSS and JavaScript, and the backend of the project was
 created with PHP and SQL. 
 
-
+<!--
 You can access the website at this link:
 https://luxurygc.000webhostapp.com/
 
@@ -21,3 +21,4 @@ username: jb123
 To access an admin account, use:  
 username: admin
   password: yes
+-->
